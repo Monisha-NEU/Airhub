@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Air Hub: Flight Booking System
 
 <p align="center">
@@ -19,8 +18,5 @@ Air travel is an integral part of modern life, with a growing number of people c
 5. **Data Security:** Recognizing the sensitivity of user and system data, the system will prioritize stringent security measures. Access to critical data will be restricted to authorized personnel responsible for managing essential operations.
 6. **Scalability and Adaptability:** Designed to accommodate the dynamic nature of the airline industry, our system is built to support the growth and evolving needs of the airline company. It can seamlessly adapt to changes in the industry and ensure sustained operational excellence
 
-## Flight Management System
-![Flight Management System](https://github.com/arnavvaryani/Airhub/assets/144771742/c5e936da-630d-4155-aef3-3bb3cfd88af7)
-=======
-# Airhub
->>>>>>> 44f36af3a05ce21d960e27183c1cddc6ebee8134
+
+
